@@ -1,10 +1,9 @@
-!pip install opencv-python
-!pip install pyngrok
-!pip install streamlit
-!pip install streamlit pyngrok
-!pip install ultralytics
-!pip install easyocr
-!pip install opencv-python
-!pip install pymongo dnspython
-!pip install matplotlib
-!pip install pandas
+opencv-python
+pyngrok
+streamlit
+ultralytics
+easyocr
+pymongo
+dnspython
+matplotlib
+pandas
