@@ -50,8 +50,8 @@ License-Plate-Recognition
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/license-plate-recognition.git
-cd license-plate-recognition
+[git clone https://github.com/yourusername/license-plate-recognition.git
+cd license-plate-recognition](https://github.com/rengarajspt/AI-powered-License-Plate-Recognition-System/tree/main)
 ```
 
 ---
