@@ -1,9 +1,11 @@
-opencv-python
-pyngrok
 streamlit
+opencv-python-headless
 ultralytics
 easyocr
 pymongo
 dnspython
-matplotlib
 pandas
+matplotlib
+seaborn
+numpy
+Pillow
